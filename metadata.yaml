@@ -8,12 +8,17 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '31826'
     url: http://www.gutenberg.org/2009/agents/31826
+covers:
+- cover_type: archival
+  image_path: 75509-h/images/cover.jpg
 creator:
   author:
     agent_name: Endicott, Ruth Belmore
     gutenberg_agent_id: '38594'
     url: http://www.gutenberg.org/2009/agents/38594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75509#Carolyn-of-the-sunny-heart
 gutenberg_issued: '2025-03-03'
 gutenberg_type: Text
 identifiers:
